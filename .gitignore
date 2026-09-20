@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.DS_Store
+
+# secrets — never commit API keys
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+
+# playwright
+test-results/
+playwright-report/
