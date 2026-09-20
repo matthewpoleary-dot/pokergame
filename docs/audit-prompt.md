@@ -104,7 +104,7 @@ to clubs and societies.
 
 ## 5. What to audit
 
-Work through all five areas. Do not merely summarise the plan back.
+Work through all six areas. Do not merely summarise the plan back.
 
 **A. Legal and regulatory.** Does the settle-up model actually achieve the separation it
 claims under Irish law and the Gambling Regulation Act 2024, or is that separation thinner
@@ -143,9 +143,20 @@ question — recommend one and justify it, factoring in the app store policy iss
 friend group, and say explicitly what to cut to reach it. Then say what the second version
 adds. Be aggressive about cutting.
 
+**F. Distribution and outreach.** The unit of adoption is a group, not an individual: you
+acquire hosts, and each brings 4-9 guests who play free with no signup. Assess whether that
+organic loop is strong enough to carry growth on its own — because it may have to. Meta and
+Google restrict gambling and real-money gaming advertising, and those policies often reach
+"social casino" apps involving no real money, so paid acquisition may be entirely
+unavailable to a product with poker in the name. Verify that against current policy and say
+how much it constrains the plan. Then recommend a concrete first-100-hosts strategy given a
+solo developer with no ad budget, and say which of these is the highest-yield starting
+point: the author's own game, college poker societies, home-game communities on Reddit and
+Discord, or long-tail content. Name the key growth metric to instrument from day one.
+
 ## 6. How to answer
 
-- Open with the single highest-risk item across all five areas, and say whether you would
+- Open with the single highest-risk item across all six areas, and say whether you would
   proceed, proceed with modifications, or not build this at all.
 - Then take the areas in order. Be specific and concrete; prefer a firm recommendation with
   its reasoning over a menu of options.
