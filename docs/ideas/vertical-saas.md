@@ -13,7 +13,10 @@ generic scheduler they have to bend into shape.
 Worked examples:
 
 - **tigh** — saunas. "Bookings, payments and reasons to come back. Built around your sauna."
+  **Roughly one month old as of September 2026.** A polished site and a pricing page, not yet
+  evidence of a working market — see the caution below.
 - **Golf O'Clock** — indoor golf simulators. 200+ active facilities, 1.2m bookings processed.
+  This is the one with actual proof attached.
 - **Playtomic** — padel and racket sports. Dominant in Europe, €56m raised.
 
 The buyers are ideal: they have revenue, they are unsophisticated software purchasers, they
@@ -70,13 +73,22 @@ I cannot hand over the next category, and it is worth being precise about why. B
 category is visible enough for me to find it by search, it is visible to everyone else running
 the same search — the same structural fact that killed the seven consumer ideas, one level up.
 
-Tigh's founder did not find saunas by searching. The name is Irish, the product is built into
-the Irish sauna boom, and they were plainly in that scene while it was happening. The sauna
-window was open in 2024 and is now taken.
+Tigh's founder did not find saunas by searching. They were in that scene while it was
+happening — and they are a friend of this project's author, which makes the point sharper
+rather than weaker. The input that produced the only genuinely promising idea in this entire
+exploration was proximity to someone doing the thing, not research.
 
-Which means the next one is inside a scene that is already being lived in, watching operators
-do something badly with tools that do not fit. That is an observation task, not a research
-task, and it is the one input that cannot be outsourced.
+Which means the next one is inside a scene already being lived in, watching operators do
+something badly with tools that do not fit. That is an observation task, not a research task,
+and it is the one input that cannot be outsourced.
+
+## Caution on treating tigh as validation
+
+An earlier draft of this document leaned on tigh as evidence that this play works. At roughly
+one month old that is not established. A pricing page and a customers page show that a founder
+believes in the market, which is not the same as operators paying. Before copying the pattern,
+establish how many venues are actually paying and what they were using before. Golf O'Clock's
+200 facilities are evidence; a month-old landing page is a hypothesis.
 
 **What can be outsourced:** naming a category takes one search to kill-test against the screen
 above. Ten categories have been tested this way in about an hour.
