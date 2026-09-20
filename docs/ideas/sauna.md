@@ -123,14 +123,25 @@ Three ways through, in order of preference:
    and the Dún Laoghaire floating sauna. The mountains and inland water are less contested,
    which is exactly where Tigh'n Alluis sits.
 
-## Where your actual skills come in
+## Correction: the software play was the real opportunity, not the operation
 
-Not as the product. Most operators run Squarespace plus Instagram, and booking and
-slot-release is visibly the weakest part of the category — slots dropped three or four weeks
-ahead, selling out immediately. A well-built booking flow, a waitlist that fills cancellations
-automatically, and decent SEO for "sauna near Dublin" is a genuine edge over the incumbent
-operators, and you can build it in a weekend.
+The original version of this document ended by advising against building software for sauna
+operators — "the micro-SaaS trap, a market of a few hundred businesses in Ireland." That was
+wrong, and the error is instructive.
 
-Build it for your own sauna. Do not build it to sell to other sauna operators — that is the
-micro-SaaS trap again, into a market of a few hundred businesses in Ireland. The money is in
-operating, not in tooling the operators.
+**tighsauna.com** is exactly that product: "Fill the house. Bookings, payments and reasons to
+come back. Built around your sauna." Pricing page, demo booking, a customers page. An Irish
+name, built into the Irish sauna boom, sold globally.
+
+The mistake was scoping the market to Ireland. The market is the worldwide sauna and
+cold-plunge boom — thousands of venues, each able to pay €50-150/month for the system that
+runs their bookings. That is a materially larger business than operating one sauna, with no
+capital requirement, no council licence, no hardwood to haul, and no need to be physically
+present on a beach — which also resolves the Erasmus conflict that makes the operating plan
+awkward.
+
+So this file's conclusion inverts: **operating a sauna is a decent €20-25k/yr weekend
+business; building the operating system for sauna venues is the actual opportunity, and
+someone is already executing it.**
+
+The generalisable pattern, and how to screen it, is in `vertical-saas.md`.
